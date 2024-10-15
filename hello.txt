@@ -1,1 +1,7 @@
-Hello this is Truong Nguyen Binh Minh (but push from VSC)
+Hello this is Truong Nguyen Binh Minh
+
+-- first (failed)
+
+-- second (failed)
+
+-- ready to push
