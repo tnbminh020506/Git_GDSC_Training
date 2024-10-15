@@ -1,7 +1,0 @@
-Hello this is Truong Nguyen Binh Minh
-
--- first (failed)
-
--- second (failed)
-
--- ready to push
